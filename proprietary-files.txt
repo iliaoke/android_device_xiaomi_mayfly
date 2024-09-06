@@ -838,7 +838,6 @@ vendor/lib64/libqll.so
 vendor/lib64/libqll10.so
 vendor/lib64/libqllengine.so
 vendor/lib64/libqshcamera.so
-vendor/lib64/libqti_vndfwk_detect.so
 vendor/lib64/libquickcamera.so
 vendor/lib64/librelight_only.so
 vendor/lib64/libremosaic_wrapper.so
