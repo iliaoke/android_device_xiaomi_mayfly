@@ -778,7 +778,6 @@ vendor/lib64/libcom.xiaomi.grallocutils.so
 vendor/lib64/libcom.xiaomi.mawutils.so
 vendor/lib64/libcom.xiaomi.metadatautils.so
 vendor/lib64/libcom.xiaomi.pluginutils.so
-vendor/lib64/libcvp2_1.so
 vendor/lib64/libdeflicker.so
 vendor/lib64/libdeflickerNM.so
 vendor/lib64/libdualcam_optical_zoom_control.so
