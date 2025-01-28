@@ -1,5 +1,2 @@
-# Audio
-ro.hardware.audio.primary=taro-mayfly
-
 # Sensors
 ro.vendor.sensors.xiaomi.udfps=true
