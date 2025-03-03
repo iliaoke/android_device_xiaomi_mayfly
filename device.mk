@@ -37,5 +37,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Vibrator
+$(call soong_config_set,qti_vibrator,effect_lib,libqtivibratoreffect.xiaomi)
+$(call soong_config_set,qti_vibrator,use_effect_stream,true)
+
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/mayfly/mayfly-vendor.mk)
