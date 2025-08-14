@@ -22,7 +22,7 @@ PRODUCT_NAME := lineage_mayfly
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="mayfly-user 15 SKQ1.230401.001 OS2.0.202.0.VLTCNXM release-keys" \
-    BuildFingerprint=Xiaomi/mayfly/mayfly:15/SKQ1.230401.001 OS2.0.202.0.VLTCNXM:user/release-keys \
+    BuildFingerprint=Xiaomi/mayfly/mayfly:15/SKQ1.230401.001/OS2.0.202.0.VLTCNXM:user/release-keys \
     DeviceProduct=mayfly \
     SystemName=mayfly
 
