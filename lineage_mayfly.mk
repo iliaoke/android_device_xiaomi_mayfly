@@ -27,3 +27,11 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     SystemName=mayfly
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+RISING_MAINTAINER="liaoke"
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    RisingChipset="Snapdragon 8 Plus Gen 1" \
+    RisingMaintainer="liaoke"
+
+RISING_MAINTAINER := liaoke
